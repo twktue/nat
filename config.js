@@ -15,8 +15,6 @@ module.exports = function (ROOT_DIR) {
           '/css/main.css'
         ],
         '/cached/main.js': [
-          '/js/vendor/jquery.min.js',
-          '/js/vendor/moment.min.js',
           '/js/main.js'
         ]
       },
